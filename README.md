@@ -1,4 +1,4 @@
-### Hi there 👋 How you doin’ lad?
+### Hi there 👋
 - 🌱 I’m currently learning web-development.
 - 🤔 I’m open for the mentorship and the internship.
 - 📫 How to reach me: discord: @ye-russell#0255.
