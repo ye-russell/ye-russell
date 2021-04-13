@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning web-development.
-- 🤔 I’m open for the mentorship and the internship.
+- 🤔 I’m open to obtaining the mentorship and getting the internship.
 - 📫 How to reach me: discord: @ye-russell#0255.
 - 🔧 CV: https://ye-russell.github.io/rsschool-cv/
 <!--
