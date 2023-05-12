@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently diving into web-development through front-end and using Angular.
-- 🤔 I work at EPAM Systems as software engineer.
+- 🌱 I’m currently diving into web-development through front-end and using primarily Angular (having experience with ReactJS, Vue.js and Stencil).
+- 🤔 I work at EPAM Systems as Software Engineer.
 - 📫 How to reach me: discord: @ye-russell#0255.
 - 🔧 CV: https://ye-russell.netlify.app/
 
