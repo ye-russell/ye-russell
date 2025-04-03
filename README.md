@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I work at EPAM Systems as Software Engineer.
+- 🤔 I work at EPAM Systems as Senior Software Engineer.
 - 📫 How to reach me: discord: @ye-russell#0255.
 - 🔧 CV: https://ye-russell.netlify.app/
 
